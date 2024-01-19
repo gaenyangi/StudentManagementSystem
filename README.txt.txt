@@ -1,5 +1,3 @@
-20191336 홍준영 OOP Project 1
-
 OS : window
 compiler : visual studio 2022
 source code : a.cpp
